@@ -4,13 +4,13 @@ from various genres and authors. However, the recommendations you often encounte
 the most famous and popular titles, leaving many hidden gems undiscovered. Recognizing this gap, I have
 developed a personalized novel recommendation system designed to cater to your unique reading preferences.
 
-INTRODUCTION TO NOVEL RECOMMENDATION SYSTEM:<br>
+<b>INTRODUCTION TO NOVEL RECOMMENDATION SYSTEM:<b><br>
  Our recommendation system goes beyond the usual bestsellers and critically acclaimed works. By analyzing
  your individual tastes and interests, it curates a tailored list of books that align with your personal 
  preferences. Whether you're into contemporary fiction, historical novels, fantasy epics, or niche genres,
  this system ensures that you discover novels that resonate with you.
 
-HOW IT WORKS:<br>
+<b>HOW IT WORKS:<b><br>
 1.Data collection:<br>
 The system begin with gathering dataset from Kaggle Book recommendation Dataset by MÖBIUS which include collecting ratings of each book, there number of ratings on each book,
 publiser and number of reader read that book.<br>
