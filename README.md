@@ -15,7 +15,7 @@ developed a personalized novel recommendation system designed to cater to your u
 The system begin with gathering dataset from Kaggle Book recommendation Dataset by MÖBIUS which include collecting ratings of each book, there number of ratings on each book,
 publiser and number of reader read that book.<br>
 2.User interest collection:<br>
-When you first use the system, it collects information as to what type of book you read and some books as to what type of book you like.<br>
+When you first use the system, it collects information to what type of book you read and some example of books as to what type of book you like.Based on the genre, author and keywords it suggests the book.<br>
 3. Recommandation Algorithm:<br>
 Using the Machine learning algorithm, the system analyze the collected data to identify the correlation and pattern.The key technique involved:<br>
 1.Content based filtering:<br>
