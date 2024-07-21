@@ -5,10 +5,10 @@ the most famous and popular titles, leaving many hidden gems undiscovered. Recog
 developed a personalized novel recommendation system designed to cater to your unique reading preferences.<br>
 
 <b>INTRODUCTION TO NOVEL RECOMMENDATION SYSTEM:<b> <br>
- Our recommendation system goes beyond the usual bestsellers and critically acclaimed works. By analyzing
+ <p>Our recommendation system goes beyond the usual bestsellers and critically acclaimed works. By analyzing
  your individual tastes and interests, it curates a tailored list of books that align with your personal 
  preferences. Whether you're into contemporary fiction, historical novels, fantasy epics, or niche genres,
- this system ensures that you discover novels that resonate with you.<br>
+ this system ensures that you discover novels that resonate with you.</p><br>
 
 <b>HOW IT WORKS:<b> <br>
 1.Data collection:<br>
